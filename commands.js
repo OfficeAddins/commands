@@ -1,5 +1,5 @@
-Office.onReady = function (reason) { 
-} 
+Office.onReady( function (reason) { 
+});
 
 function ButtonPressedFunction(event) {
   try {
